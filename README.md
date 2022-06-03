@@ -30,7 +30,9 @@ Visual Studio Code
 
 ### 数据集预处理
 
-数据集需经过AC-PC校正、偏置场校正以及颅骨剥离，以上操作均使用基于Matlab开发的软件SPM12（http://www.fil.ion.ucl.ac.uk/spm/）以及其CAT12工具箱（http://www.neuro.uni-jena.de/cat/）完成。
+数据集需经过AC-PC校正、偏置场校正以及颅骨剥离，以上操作均使用基于Matlab开发的软件SPM12以及其CAT12工具箱完成。
+SPM12（http://www.fil.ion.ucl.ac.uk/spm/）
+CAT12（http://www.neuro.uni-jena.de/cat/）
 
 ## 2.Model
 
